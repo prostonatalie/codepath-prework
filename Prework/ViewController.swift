@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Prework
 //
-//  Created by Angelica Tupikova on 11/15/21.
+//  Created by Natalya Tupikova on 11/15/21.
 //
 
 import UIKit
